@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @therealotee
+- 👀 I’m interested in cloud admin (google, amazon and azure)
+- 🌱 I’m currently learning azure (az 104)
